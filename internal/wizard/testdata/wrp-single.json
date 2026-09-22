@@ -1,0 +1,16 @@
+{
+  "iss": "https://registrar.example-ms.eu",
+  "iat": 1783155600,
+  "data": {
+    "tradeName": "Example Age Check",
+    "supportURI": ["https://rp.example.com/support"],
+    "srvDescription": [[{"lang": "en", "content": "Online age verification service"}]],
+    "isPSB": false,
+    "entitlements": ["https://uri.etsi.org/19475/Entitlement/Service_Provider"],
+    "supervisoryAuthority": {"name": "Example State DPA", "country": "DE"},
+    "registryURI": "https://registrar.example-ms.eu/api",
+    "isIntermediary": false,
+    "identifier": [{"type": "http://data.europa.eu/eudi/id/EUID", "identifier": "DEUTR.HRB123456"}],
+    "country": "DE"
+  }
+}

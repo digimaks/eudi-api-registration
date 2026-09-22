@@ -11,7 +11,7 @@ import (
 
 	"github.com/gmb-eudi/go-eudi-rpcert/ts5"
 
-	"github.com/dativa-lv/eudi-api-registration/internal/registrydb"
+	"github.com/digimaks/eudi-api-registration/internal/registrydb"
 )
 
 // fixedClock is the injectable clock every Build test uses — createdAt derives

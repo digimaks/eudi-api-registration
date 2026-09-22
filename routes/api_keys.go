@@ -6,7 +6,7 @@ import (
 	"azugo.io/azugo"
 	"github.com/valyala/fasthttp"
 
-	"github.com/dativa-lv/eudi-api-registration/internal/apikeys"
+	"github.com/digimaks/eudi-api-registration/internal/apikeys"
 )
 
 // apiKeyCreated is the 201 response for POST /api/clients/{id}/keys (the

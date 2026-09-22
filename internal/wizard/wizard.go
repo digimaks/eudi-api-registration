@@ -26,7 +26,7 @@ import (
 
 	"github.com/gmb-eudi/go-eudi-rpcert/ts5"
 
-	"github.com/dativa-lv/eudi-api-registration/internal/registrydb"
+	"github.com/digimaks/eudi-api-registration/internal/registrydb"
 )
 
 // euidTypeURI is the [ARF TS5 v1.3 §2.4.2.1] preferred identifier type — EUID

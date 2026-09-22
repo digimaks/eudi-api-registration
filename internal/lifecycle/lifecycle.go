@@ -48,7 +48,7 @@ import (
 
 	pkerrors "github.com/gmb-lib/go-platform-kit/errors"
 
-	"github.com/dativa-lv/eudi-api-registration/internal/registrydb"
+	"github.com/digimaks/eudi-api-registration/internal/registrydb"
 )
 
 // stateActive / stateOffboarded name the two states this package attaches

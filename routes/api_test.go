@@ -12,8 +12,8 @@ import (
 	"github.com/valyala/fasthttp"
 	"golang.org/x/crypto/argon2"
 
-	eudiapiregistration "github.com/dativa-lv/eudi-api-registration"
-	"github.com/dativa-lv/eudi-api-registration/internal/registrydb"
+	eudiapiregistration "github.com/digimaks/eudi-api-registration"
+	"github.com/digimaks/eudi-api-registration/internal/registrydb"
 )
 
 // testAppWithAPI boots the app via eudiapiregistration.NewTestApp (testing.go):

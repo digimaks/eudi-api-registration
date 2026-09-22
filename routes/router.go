@@ -9,7 +9,7 @@
 package routes
 
 import (
-	eudiapiregistration "github.com/dativa-lv/eudi-api-registration"
+	eudiapiregistration "github.com/digimaks/eudi-api-registration"
 )
 
 type router struct {

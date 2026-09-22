@@ -5,7 +5,7 @@ package eudiapiregistration
 import (
 	"testing"
 
-	"github.com/dativa-lv/eudi-api-registration/internal/registrydb"
+	"github.com/digimaks/eudi-api-registration/internal/registrydb"
 )
 
 // NewTestApp boots the app with a placeholder POSTGRES_DSN (init()'s

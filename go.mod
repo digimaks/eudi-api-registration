@@ -1,4 +1,4 @@
-module github.com/dativa-lv/eudi-api-registration
+module github.com/digimaks/eudi-api-registration
 
 go 1.27.0
 

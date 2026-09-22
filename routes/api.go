@@ -18,7 +18,7 @@ import (
 
 	pkerrors "github.com/gmb-lib/go-platform-kit/errors"
 
-	"github.com/dativa-lv/eudi-api-registration/internal/lifecycle"
+	"github.com/digimaks/eudi-api-registration/internal/lifecycle"
 )
 
 // apiClientSummary is the admin API's wire DTO for one client, matching the

@@ -10,8 +10,8 @@ import (
 
 	"github.com/go-quicktest/qt"
 
-	"github.com/dativa-lv/eudi-api-registration/internal/lifecycle"
-	"github.com/dativa-lv/eudi-api-registration/internal/registrydb"
+	"github.com/digimaks/eudi-api-registration/internal/lifecycle"
+	"github.com/digimaks/eudi-api-registration/internal/registrydb"
 )
 
 // This test binary never runs eudiapiregistration's App.init (lifecycle can't

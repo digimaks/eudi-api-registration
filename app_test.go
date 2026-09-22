@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-quicktest/qt"
 
-	"github.com/dativa-lv/eudi-api-registration/internal/registrydb"
+	"github.com/digimaks/eudi-api-registration/internal/registrydb"
 )
 
 // TestAppAccessors boots NewTestApp (New + init) and asserts every accessor

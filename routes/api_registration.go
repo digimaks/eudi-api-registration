@@ -25,7 +25,7 @@ import (
 	"github.com/gmb-eudi/go-eudi-rpcert/ts5"
 	pkerrors "github.com/gmb-lib/go-platform-kit/errors"
 
-	"github.com/dativa-lv/eudi-api-registration/internal/wizard"
+	"github.com/digimaks/eudi-api-registration/internal/wizard"
 )
 
 // defaultPrivacyPolicyTypeURI is applied when a privacy-policy entry omits an
